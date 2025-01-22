@@ -3,9 +3,13 @@ This project focuses on developing a predictive model using linear regression to
 
 Objectives:-
 1.Develop a predictive model to estimate solar power output using linear regression.
+
 2.Analyze historical solar energy production data to identify trends and patterns.
+
 3.Provide actionable insights to optimize energy planning and management.
+
 4.Train and validate a linear regression model on real-world data.
+
 5.Access model accuracy and interpret its prediction
 
 Some Benefits of project :-
